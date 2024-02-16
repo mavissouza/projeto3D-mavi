@@ -1,6 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 :root{
-   --rosa claro fundo: #FF93FF;
-   --rosa pink: #EB02B8;
-   --roxo claro: #C6A0F2;
-   --roxo escuro: #8D7FEB;
-}
+   --rosa-claro-fundo: #FF93FF;
+   --botao-1e3-roxo-claro: #C6A0F2;
+   --botao-2e4-roxo-escuro: #8D7FEB;
+   --roxo-claro-texto1: #CAAAED;
+   --rosa-claro-texto2: #FF93D4;
+   --rosa-pink-cronometro: #EB02B8;
+
+
+
+
+}  
