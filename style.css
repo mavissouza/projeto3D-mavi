@@ -6,8 +6,9 @@
    --roxo-claro-texto1: #CAAAED;
    --rosa-claro-texto2: #FF93D4;
    --rosa-pink-cronometro: #EB02B8;
-
-
-
-
 }  
+body{
+   background-color: var(--rosa-claro-fundo);
+   color: var(--branco);
+   font-family: 'Chakra Petch', 'Sans-Serif';
+}
