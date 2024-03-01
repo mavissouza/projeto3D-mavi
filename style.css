@@ -12,3 +12,20 @@ body{
    color: var(--branco);
    font-family: 'Chakra Petch', 'Sans-Serif';
 }
+.cointeudo-principal{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   max-width: 1200px;
+   width: 100%;
+   margin:auto;
+}
+.titulo-principal{
+   text-align: left;
+   width: 100%;
+   font-size: 32px;
+}
+.titulo-principal span{
+   color: var(--rosa-pink-cronometro);
+}
