@@ -44,3 +44,7 @@ body{
    border-right: 2px solid var(--rosa-pink-cronometro);
    border-top: none;
 }
+.botao:first-child{
+   border-radius: 40px 0 0;
+}
+
