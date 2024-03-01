@@ -29,3 +29,13 @@ body{
 .titulo-principal span{
    color: var(--rosa-pink-cronometro);
 }
+.botao{
+   font-family: 'Chakra Petch', sans-serif;
+   background-color: var(--botao-2e4-roxo-escuro);
+   color: var(--branco);
+   display: flex;
+   justify-content: center;
+   padding: 1em;
+   font-size: 10px;
+   align-items: center;
+}
