@@ -36,8 +36,11 @@ body{
    display: flex;
    justify-content: center;
    padding: 1em;
-   font-size: 10px;
+   font-size: 18px;
    align-items: center;
    width: 100%;
    border-bottom: 4px solid var(--rosa-pink-cronometro);
+   border-left: 2px solid var(--rosa-pink-cronometro);
+   border-right: 2px solid var(--rosa-pink-cronometro);
+   border-top: none;
 }
