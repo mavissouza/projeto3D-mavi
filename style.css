@@ -12,7 +12,7 @@ body{
    color: var(--branco);
    font-family: 'Chakra Petch', 'Sans-Serif';
 }
-.cointeudo-principal{
+.conteudo-principal{
    display: flex;
    flex-direction: column;
    justify-content: center;
