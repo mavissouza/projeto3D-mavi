@@ -52,7 +52,7 @@ body{
 }
 .ativo{
    background-color: #CAAAED;
-   border-bottom: 4px solid var(--rosa-claro-fundo);
+   border-bottom: 4px solid var(--rosa-pink-cronometro);
 }
 @media screen and (min-width:768px){
    .botoes{
