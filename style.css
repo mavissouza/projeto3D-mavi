@@ -55,7 +55,7 @@ body{
    border-bottom: 4px solid var(--rosa-pink-cronometro);
 }
 .abas-textos{
-   background-color: var(--rosa-claro-fundo: #FF93FF);
+   background-color: var(--rosa-claro-fundo);
    padding: 40px;
    border-radius: 0 0 40px 40px;
 }
